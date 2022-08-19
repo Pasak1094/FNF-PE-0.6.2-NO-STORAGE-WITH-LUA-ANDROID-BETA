@@ -64,9 +64,30 @@ class ChartingState extends MusicBeatState
 		'Alt Animation',
 		'Hey!',
 		'Hurt Note',
-		'GF Sing',
-		'No Animation'
-	];
+		'Sword',
+        'GF Sing',
+		'No Animation',
+	    'template1',
+		'template2',
+		'template3',
+		'template4',
+        'template5',
+		'template6',
+        'template7',
+		'template8',
+		'template9',
+		'template10',
+        'template11',
+		'template12',
+		'template13',
+		'template14',
+        'template15',
+		'template16',
+        'template17',
+		'template18',
+		'template19',
+		'template20'
+    ];
 	private var noteTypeIntMap:Map<Int, String> = new Map<Int, String>();
 	private var noteTypeMap:Map<String, Null<Int>> = new Map<String, Null<Int>>();
 	public var ignoreWarnings = false;
